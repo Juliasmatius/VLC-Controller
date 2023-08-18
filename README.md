@@ -21,4 +21,5 @@ Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/iss
 4. After the command finishes take a look in /dist. You should see VLC_Controller.exe. Thats your file. Success!
 
 ## Building from source for MacOS.
-I do not have a mac to test with. \ [Here](https://kivy.org/doc/stable/guide/packaging-osx.html) is an official guide from the creator of the ui script.
+I do not have a mac to test with. \ 
+[Here](https://kivy.org/doc/stable/guide/packaging-osx.html) is an official guide from the creator of the ui script.
