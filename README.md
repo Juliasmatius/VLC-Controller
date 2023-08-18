@@ -15,7 +15,7 @@ Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/iss
 
 ## Building from source for windows.
 0. Download and install python and pyinstaller(```pip install pyinstaller```)
-2. Run the following command in the folder where main.py is located
+2. Run the following command in the folder where main.py is located\
 ```python -m PyInstaller --onefile --name VLC_Controller main.py```
 3. Wait. This step can take looong.
 4. After the command finishes take a look in /dist. You should see VLC_Controller.exe. Thats your file. Success!
