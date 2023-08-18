@@ -23,3 +23,6 @@ Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/iss
 ## Building from source for MacOS.
 I do not have a mac to test with.
 [Here](https://kivy.org/doc/stable/guide/packaging-osx.html) is an official guide from the creator of the ui script.
+
+## Building from source for Android.
+Sorry! My WSL isnt working I cant try. [Here](https://kivy.org/doc/stable/guide/packaging-android.html) is a guide.
