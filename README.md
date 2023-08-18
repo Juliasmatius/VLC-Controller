@@ -2,6 +2,7 @@
 Control vlc through a python(can be compiled)
 Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/issues/new)(issues tab).
 ## Usage
+0. Download VLC.
 1. Enable VLC http control. [Guide here](https://www.trishtech.com/2021/03/how-to-control-vlc-media-player-from-web-browser/)
 2. Download/build the script.
 3. Run the main file. You should see a windows like the one below.
@@ -13,7 +14,7 @@ Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/iss
 
 
 ## Building from source for windows.
-1. Download main.py
+0. Download and install python and pyinstaller(```pip install pyinstaller```)
 2. Run the following command in the folder where main.py is located
 ```python -m PyInstaller --onefile --name VLC_Controller main.py```
 3. Wait. This step can take looong.
