@@ -1,6 +1,6 @@
 # VLC-Controller
 Control vlc through a python(can be compiled)
-Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/issues/new)(issues tab).
+Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/issues/new) (issues tab).
 ## Usage
 0. Download VLC.
 1. Enable VLC http control. [Guide here](https://www.trishtech.com/2021/03/how-to-control-vlc-media-player-from-web-browser/)
