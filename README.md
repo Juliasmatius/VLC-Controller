@@ -19,3 +19,6 @@ Found a bug? Report it [here](https://github.com/Juliasmatius/VLC-Controller/iss
 ```python -m PyInstaller --onefile --name VLC_Controller main.py```
 3. Wait. This step can take looong.
 4. After the command finishes take a look in /dist. You should see VLC_Controller.exe. Thats your file. Success!
+
+## Building from source for MacOS.
+I do not have a mac to test with. \[Here](https://kivy.org/doc/stable/guide/packaging-osx.html) is an official guide from the creator of the ui script.
